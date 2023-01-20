@@ -17,3 +17,5 @@ public class Main {
         System.out.println("profit from m2: " + m2.calculateProfitEarned());
     }
 }
+
+//Hello
